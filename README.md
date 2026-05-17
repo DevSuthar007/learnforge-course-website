@@ -10,7 +10,5 @@ LearnForge is a modern website for promoting online courses.
 - Course showcase
 - Pricing section
 - Testimonials
-## 🔗 Live Demo
-Coming soon
 ## 👨‍💻 Author
 DevSuthar007
