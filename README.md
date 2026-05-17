@@ -6,7 +6,7 @@ A modern and responsive landing page designed to promote online courses with a c
 
 ## 🌐 Live Demo
 
-[🔥 Open Website](https://devsuthar007.github.io/-course-promotion-site/#home)
+[🔥 Open Website](https://devsuthar007.github.io/learnforge-course-website/)
 
 ---
 
